@@ -272,3 +272,12 @@
         }
     }
 }
+
+.btnGit{
+    color: $white-normal;
+}
+
+.btnGit:hover{
+    color: blue;
+    text-decoration: underline;
+}

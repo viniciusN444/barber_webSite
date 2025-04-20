@@ -333,6 +333,15 @@ i {
     max-width: 64px;
   }
 }
+.btnGit {
+  color: #FFF;
+}
+
+.btnGit:hover {
+  color: blue;
+  text-decoration: underline;
+}
+
 body {
   font-family: "Sora", sans-serif;
   width: 100%;
